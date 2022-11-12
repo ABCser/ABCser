@@ -123,4 +123,4 @@ git commit -am "Внесены изменения"         # создаем ко
 
 Удачи в обучении!!!
 
-![Удачи в обучении!](Rock.png)
+![Удачи в обучении!]([Rock.png](https://www.emojiall.com/images/240/facebook/1f918.png))
