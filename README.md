@@ -4,4 +4,4 @@
 
 + 🔭 I’m currently studying at GeekBrains
 + 🌱 I’m currently learning Python
-+ 📫 How to reach me: ABCser@ya.ru
++ 📫 How to reach me: <img src="https://static.tildacdn.com/tild3336-6361-4539-b363-396633613930/2cbc84597f87e4968cc4.png" width="20px">  [Telegram](https://t.me/mogilats)
