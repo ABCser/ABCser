@@ -1,4 +1,4 @@
-# SMogGB
+# SMog
 GeekBrains Home Work
 # Hi there, I'm [Serj](https://t.me/mogilats) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### Computer science student from Russia 🇷🇺
